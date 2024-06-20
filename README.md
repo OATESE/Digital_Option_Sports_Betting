@@ -2,4 +2,4 @@ A brief essay on how the binomial trees option pricing model can be used to map 
 
 Read the essay 
 
-[Read The Essay Here](./Binomial Trees Sports Betting.pdf)
+[Read The Essay Here](./Binomial%20Trees%20Sports%20Betting.pdf)
